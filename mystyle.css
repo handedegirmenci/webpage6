@@ -1,0 +1,20 @@
+body{
+  background: linear-gradient(
+    to bottom,
+    #5d9634,
+    #5d9634 50%
+    #538c2b 50%
+    #538c2b
+  );
+
+  background-size: 100% 20px;
+}
+
+#container{
+  position: relative;
+  margin: 0 auto;
+  top: 150px;
+  height: 300px;
+  width: 300px;
+  background: #FFF;
+}
